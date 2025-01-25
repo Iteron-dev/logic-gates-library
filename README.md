@@ -2,7 +2,7 @@
 
 ## Overview
 
-A fast and space-efficient library for handling combinational Boolean circuits composed of the following types of gates:
+A fast and space-efficient C library for handling combinational Boolean circuits composed of the following types of gates:
 - NAND, AND, OR, NOR, XOR, XNOR
 
 

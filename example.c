@@ -36,6 +36,7 @@ static int example(void) {
     gate_delete(g0);
     gate_delete(g1);
     gate_delete(g2);
+    gate_delete(g4);
 
     return 0;
 }
