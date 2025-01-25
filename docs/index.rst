@@ -1,7 +1,7 @@
 API Reference
 =============
 .. note::
-   The full README is available on `GitHub <https://github.com/iteron-dev/logic-gates-library/blob/main/README.md>`_.
+   The full README is available on `GitHub <https://github.com/Iteron-dev/logic-gates-library/blob/master/README.md>`_.
 
 .. doxygenfile:: src/gate.h
    :project: Logic gates library
