@@ -1,0 +1,5 @@
+INPUT                  = ../src/gate.c ../src/gate.h ../src/vector.c ../src/vector.h
+OUTPUT_DIRECTORY       = doxygen
+GENERATE_XML           = YES
+PROJECT_NAME           = "Logic gates library"
+PROJECT_BRIEF          = "Logic gates library"
