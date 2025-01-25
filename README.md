@@ -63,4 +63,4 @@ Gate from `example.c`:
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.  
-See [LICENSE](LICENSE.md) for the full terms.
+See [LICENSE](LICENSE.txt) for the full terms.
