@@ -17,7 +17,7 @@ A fast and space-efficient library for handling combinational Boolean circuits c
 
 ## API Reference
 
-You can find the API reference for this library at the following link: [API Reference](link).
+You can find the API reference for this library at the following link: [API Reference](https://iteron-dev.github.io/logic-gates-library/).
 
 ## Building and Running
 
